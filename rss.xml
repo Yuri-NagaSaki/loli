@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Hexo</title>
-        <subtitle></subtitle>
+        <title>優萌初華</title>
+        <subtitle>我们都会死很久，所以活着的时候一定要开心。</subtitle>
         <icon>https://catcat.blog/images/favicon.ico</icon>
         <link>https://catcat.blog</link>
         <author>
           <name>Sayyiku</name>
         </author>
-        <description></description>
+        <description>我们都会死很久，所以活着的时候一定要开心。</description>
         <language>en</language>
         <pubDate>Fri, 20 May 2022 12:33:26 +0800</pubDate>
         <lastBuildDate>Fri, 20 May 2022 12:33:26 +0800</lastBuildDate>
